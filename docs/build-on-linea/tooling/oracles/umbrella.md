@@ -28,7 +28,7 @@ These are the price feeds available on Linea Mainnet and their configuration:
   - Deviation threshold: 1%
   - Heartbeat: 6 hours
 
-> You can expect some delays on the update of the price feeds on chain as validators on the umbrella network are completing their upgrades.
+> You can expect some delays on the update of the price feeds on chain as validators on the Umbrella Network are completing their upgrades.
 
 Should you need another price feed available, contact us [here](https://www.umb.network/contact#form).
 
