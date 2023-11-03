@@ -4,7 +4,7 @@ title: Umbrella Network
 
 # Umbrella Network
 
-Umbrella Network, is a decentralized oracle service that provides blockchain projects with secure, scalable, and customizable data solutions.
+Umbrella Network is a decentralized oracle service that provides blockchain projects with secure, scalable, and customizable data solutions.
 
 Umbrella offers smart contracts a broad suite of solutions, whether it is any type of price feed for specific/custom needs, high frequency pricing updates, or aggregating large volumes of data at scale. Secured by a network of decentralized community validators, Umbrella can provide any data that you need when you need it.
 
